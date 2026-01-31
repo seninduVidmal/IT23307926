@@ -1,0 +1,7 @@
+id,input,expected,type,notes
+1,"Mama kiyala hari","මම කියලා හරි",positive,short basic
+2,"Mama Zoom meeting ekata awilla. Please send me the link.","මම Zoom රැස්වීමට ආවෙ. කරුණාකර මට link එක එවන්න.",positive,mixed language preserve Zoom
+3,"Mama kalin kiyala thiyena deyak sandaha post karanawa.","මම කලින් කියලා තිබෙන දේක් සඳහා post කරනවා.",positive,medium
+4,"brb, I'm gonna call you","brb, I'm gonna call you",negative,slang should be flagged or preserved
+5,"Mama kyla hri","Mama kyla hri",negative,typo should prevent correct translation
+6,"1234567890 !!!","1234567890 !!!",negative,numbers-only
